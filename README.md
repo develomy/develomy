@@ -1,4 +1,11 @@
-### Hi there 👋
+### 안녕하세요? {Codingbear} 입니다. 🐻
+![badge](https://img.shields.io/badge/Hanbit%20Cat-Hello%20GitHub-orange)
+
+- 🔭 지금은 열씨미 Git GitHub를 실습하는 중입니다.
+- 🌱 마크다운 문법을 배워야 겠네요.
+- 👯 우리 모두 화이팅
+- 🤔 HTML, CSS, JS 도 열씨미 해야 겠죠
+- 💬 Java, SpringBoot 도 열씨미
 
 <!--
 **develomy/develomy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
